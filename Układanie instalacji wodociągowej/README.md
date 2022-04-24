@@ -1,6 +1,3 @@
-# Projekt zawiera następujące pliki:
-
-
 # Dokumentacja:
 
 -"Dokumentacja problemu układania instalacji wodociągowej.pdf"
