@@ -1,11 +1,11 @@
-Projekt zawiera następujące pliki:
+# Projekt zawiera następujące pliki:
 
 
-Dokumentacja:
+# Dokumentacja:
 
 -"Dokumentacja problemu układania instalacji wodociągowej.pdf"
 
-Kod programu:
+# Kod programu:
 
 -algorytm_genetyczny.py - implementacja algorytmu genetycznego
 
@@ -24,11 +24,11 @@ Kod programu:
 -wyrysowywanie_rozwiązania.py - kod służący do wizualizacji rozwiązania
 
 
-Dane do projektu:
+# Dane do projektu:
 
 -DANE.xlsx - plik z danymi, na których pracowaliśmy. W celu przetestowania algorytmów dla innych danych należy zmienić dane w tym pliku
 
 
-Wyniki testów:
+# Wyniki testów:
 
 -folder EA_tests - wyniki testów algorytmu genetycznego
